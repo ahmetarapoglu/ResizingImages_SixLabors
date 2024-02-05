@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1fgyTJrPp13daqNNIB8KKdieSgUZawTfC9jCWLlAV6qRX7HfJiP9MiTCQQMQxVEFh6YgEJWPUx9y9Pa4PbwkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ihab\\Desktop\\GitHub\\ResizingImages_SixLabors\\ResizingImages_SixLabors\\ResizingImages_SixLabors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ihab\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ihab\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ihab\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ihab\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ihab\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ihab\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
